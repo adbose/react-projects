@@ -1,3 +1,7 @@
+# react-projects
+
+A repository of React projects from the tutorial by John Smilga
+
 #### Tutorial Video
 
 (React Tutorial)[https://youtu.be/iZhV0bILFb0]
